@@ -34,4 +34,5 @@ POST        /users          Register a new user.            ```{
             /users/login    Log in and recieve JWT token.   ```{
                                                                 email: String,
                                                                 password: String
+
                                                             }
