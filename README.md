@@ -1,4 +1,3 @@
-# toy-api-project
 # Toys API Documentation
 
 Some routes require an API token. Send it in the request headers: x-api-key: **your_token_here**
